@@ -1,20 +1,25 @@
 title: 少女Ａは卒業しない
 copy: キャッチコピー
 theme: テーマ
-genre: ジャンル
-target: 対象
-size: 何文字想定
+genre: ミステリ青春文学
+target: 10-30台男女
+size: 8K想定
 columns: 20
 rows: 20
 contest: コンテスト情報
 caution: 注意書き
 sites:
   - 小説家になろう
+  - エブリスタ
+  - カクヨム
+  - ノベルアッププラス
 tags:
   - novel
-version: '0.0.0'
-released: 2021/01/01
-outline: 概要
+  - mystery
+  - human
+version: '0.0.1'
+released: 2021/03/31
+outline: 少女Ａによる校長傷害事件が発生する。カメラマンの男は自分が担当する予定だったモデルがその少女Ａだと知らされ、彼女のことを調べる。何故彼女は傷害事件を起こしたのか。事件を調べる先にあったのは、歪んだ少女「たち」の関係と、ある少女の想像を絶する思考だった。
 plot:
     setup  : 設定
     tp1st  : ターニングポイント１
