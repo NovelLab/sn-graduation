@@ -6,7 +6,7 @@ ToDo list
 ## Contents steps
 
 1. [x] Plan
-2. [ ] Outline
+2. [x] Outline
 3. [ ] Plot
 4. [ ] Box
 5. [ ] Draft
