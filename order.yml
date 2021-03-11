@@ -1,2 +1,6 @@
 book:
-- chapter/main: []
+- chapter/main:
+  - episode/case: []
+  - episode/research: []
+  - episode/confession: []
+  - episode/truth: []
