@@ -3,16 +3,16 @@ title: 疑惑と告白
 outline: $girlAの力になろうと$kizakiは新聞社の知人に連絡を取るが、少女はまだ勾留中で家に帰っていないと言われ、真偽を確かめるために$girlAにリアルで出会う
 plot:
   setup  : |
-    $kizakiは自分が話している$girlAが本物かどうか疑問を覚える。
-    再度ゲーム上で連絡を取り、話そうとするが、なかなか連絡がつかない。
-    一方、彼女の話から現場にもう一人の少女がいたことが分かった
-  tp1st  : $kizakiは$girlAが$girlBなのではと考える
+    新聞記者から教わった情報で$kizakiは自分が話していた$girlAが偽物と考える
+  tp1st  : $kizakiは$girlAと再びコンタクトを取る
   develop: |
     $girlAから返信があり、また話したいと言う。
-    ネットゲームで出会い、$girlAと話す。
-  tp2nd  : ？
+    ネットで$girlAと、現場にもう一人いた可能性について話す
+    $kizakiは$girlAがまだ自宅に戻っていないことを告げ、君は偽物だと伝える
+  tp2nd  : $girlAからリアルで出会いたいと申し出がある
   climax : |
-  resolve: ？
+    リアルで出会った$girlAは地味で全く似ても似つかない別人だった
+  resolve: $girlBは$girlAが既に亡くなったと口にした
 keywords: []
 note: 備考
 ---
